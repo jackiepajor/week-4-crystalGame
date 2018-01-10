@@ -1,0 +1,29 @@
+.jumbotron {
+  background-image: url("../images/background.png");
+  background-size: cover;
+}
+
+/* Crystal Collector */
+.jumbotron h1 { 
+  color: #000;
+  text-shadow: 1px 1px #fff;
+  font-weight: bold;
+}
+
+/* Here's How to Play */
+.instructions {
+  text-align: center; 
+  border: solid black;
+  border-radius: 4px;
+  background-color: #E0FFFF;
+}
+
+.col-sm-4 {
+  text-align: center;
+}
+
+.col-sm-3 {
+  border: solid 2px black;
+  border-radius: 10px;
+  padding: 0px;
+}
